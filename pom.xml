@@ -35,7 +35,7 @@
         <onos.app.readme>ONOS OSGi bundle archetype.</onos.app.readme>
         <grpc.version>1.12.0</grpc.version>
         <grpc.package.version>1.12.0</grpc.package.version>
-        <grpc.netty.version>4.1.8.Final</grpc.netty.version>
+        <grpc.netty.version>4.1.50.Final</grpc.netty.version>
         <grpc.netty.package.version>4.1.8</grpc.netty.package.version>
         <protobuf.version>3.6.1</protobuf.version>
         <google.auth.version>0.4.0</google.auth.version>
